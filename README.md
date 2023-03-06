@@ -1,3 +1,3 @@
 # Birtday reminder
 ## user experience
-![UI](/src/img/app.png "Optional title")
+![UI](/src/img/birthday-reminder.png "Optional title")
